@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Istio</title>
-      <link>/tags/istio/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/istio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     

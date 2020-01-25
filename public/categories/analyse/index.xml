@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANALYSE on OpenData Yvré</title>
+    <link>/categories/analyse/</link>
+    <description>Recent content in ANALYSE on OpenData Yvré</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/analyse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio v1aplha3 routing API介绍(译文）</title>
+      <link>/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Zhaohuabing Blog</title>
+      <link>/2017/11/03/hello-world/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/03/hello-world/</guid>
+      <description>  “Yeah It&amp;rsquo;s on. ”
+ Hello World! </description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,9 +9,9 @@ author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-06-04-introducing-the-istio-v1alpha3-routing-api/background.jpg"
 published: true 
 tags:
-    - Istio 
+    - R
 
-categories: [ Demo ]
+categories: [ ANALYSE ]
 URL: "/2018/06/04/introducing-the-istio-v1alpha3-routing-api/"
 ---
 
