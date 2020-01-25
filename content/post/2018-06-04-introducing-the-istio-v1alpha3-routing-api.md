@@ -11,7 +11,7 @@ published: true
 tags:
     - Istio 
 
-categories: [ Tech ]
+categories: [ Demo ]
 URL: "/2018/06/04/introducing-the-istio-v1alpha3-routing-api/"
 ---
 

@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "/"
 title = "Data Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -8,12 +8,13 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/map2.png"
   SEOTitle = ""
   description = ""
   keyword = "Data, Yvre, Citoyen"
@@ -54,7 +55,7 @@ home = ["HTML", "RSS", "Algolia"]
   reward = true 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -86,9 +87,6 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
@@ -109,6 +107,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
+  [[params.addtional_menus]]
+  title =  "TEST"
+  href =  "/top/test/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
