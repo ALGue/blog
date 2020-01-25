@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Data Blog"
+title = "OpenData Yvré"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -17,8 +17,8 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "img/map2.png"
   SEOTitle = ""
   description = ""
-  keyword = "Data, Yvre, Citoyen"
-  slogan = "No slogan"
+  keyword = "opendata, Yvré l'évêque, Sarthe"
+  slogan = "#72530"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Erreur de redirection :("
@@ -36,9 +36,9 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Arpenteur"
+  sidebar_about_description = "Exploratrice de données"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/yvre_fresque.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -55,7 +55,7 @@ home = ["HTML", "RSS", "Algolia"]
   reward = true 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = false
+  friends = true
   bookmarks = false
   about_me = true
 
@@ -72,40 +72,56 @@ home = ["HTML", "RSS", "Algolia"]
   email          = "opendata-yvre@tuta.io"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
+  twitter       = "https://mastodon.social/web/accounts/1089391"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
+  github         = "https://github.com/ALGue/blog"
   #wechat         = "your wechat qr code image"
   #medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
   #reddit        = "full profile url in reddit"
   #gitlab        = "full profile url in gitlab"
-  mastodon      = "https://mastodon.social/web/accounts/1089391"
+  # mastodon      = "https://mastodon.social/web/accounts/1089391"
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
 
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+#  [[params.bookmark_link]]
+#  title =  "Martin Fowler"
+#  href =  "https://martinfowler.com"
+#  [[params.bookmark_link]]
+#  title = "ServiceMesher"
+#  href =  "http://www.servicemesher.com"
+#  [[params.bookmark_link]]
+#  title =  "Pxhere"
+#  href = "https://pxhere.com"
+#  [[params.bookmark_link]]
+#  title = "unsplash"
+#  href = "https://unsplash.com"
+
+  [[params.friend_link]]
+  title = "Brocas OpenData"
+  href =  "http://opendata.brocaslesforges.fr/"
+  [[params.friend_link]]
+  title = "data.gouv.fr"
+  href =  "https://www.data.gouv.fr/fr/territories/commune/72386@latest/Yvre-lEveque/"
+  [[params.friend_link]]
+  title = "Opendatafrance"
+  href =  "http://www.opendatafrance.net/"
+  [[params.friend_link]]
+  title = "Observatoire Opendata"
+  href =  "http://www.observatoire-opendata.fr/lobservatoire/"
+  [[params.friend_link]]
+  title = "Le Mans Métropole en opendata"
+  href =  "http://www.lemans.fr/citoyen/la-collectivite/lopen-data/les-contenus-en-open-data/"
   
   [[params.addtional_menus]]
   title =  "BOOKS"
   href =  "/top/books/"
   [[params.addtional_menus]]
-  title =  "ABOUT"
+  title =  "A PROPOS"
   href =  "/top/about/"
   [[params.addtional_menus]]
   title =  "TEST"

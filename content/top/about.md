@@ -1,25 +1,9 @@
-![](/img/zhaohuabing.png)  **_Huabing Zhao_** is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
+![](/img/yvre_fresque.jpg)  **_OpenData Yvré_** est un blog à propos de la ville d'Yvré l'évêque, une petite commune de Sarthe peuplée d'un peu plus de 4000 habitants, aux abords du Mans.
 
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
+Les aut.rice.eur.s de ce blog ont pour volonté de collecter, assembler, et retravailler des jeux de données ouverts à propos du territoire d'Yvré, afin d'en proposer des visualisations et des analyses qui leur sembleront pertinentes pour engager une réflexion citoyenne à propos de ce lieu de vie. Cette initiative est indépentante, non-partisane, non professionnelle, et à but non-lucratif.
 
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.onap.org), Hugo(static site generators https://themes.gohugo.io/hugo-theme-cleanwhite/), etc.
+Les données ouvertes, ou open data, sont des données numériques dont l'accès et l'usage sont laissés libres aux usagers. Elles peuvent être d'origine publique comme privée. Elles sont diffusées de manière structurée selon une méthode et une licence ouverte garantissant leur libre accès et leur réutilisation par tous, sans restriction technique, juridique ou financière (source : Wikipedia).
 
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Smart Home.
+En France, la loi pour Une République numérique d'octobre 2016 pose le principe d'ouverture par défaut des données publiques communicables et crée la notion de service public de la donnée.
 
-Huabing holds a BS in Computer Science and Technology from Chongqing University in China.
 
-Currently, Huabing is working on a 5G NFV&SDN orchestration and management platform, at the same time, he also wears the hat of PTL in ONAP(http://www.onap.org) open source project.
-
-He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
-
-While he is not working, he enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
-
-Feel free to connect Huabing via Github (https://github.com/zhaohuabing) or drop him an email (zhaohuabing@gmail.com).
-
-## Talks
-
-* [Service Mesh in Action with ONAP] (https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap) GNTC, 南京, 2018
-* [MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh] (https://www.slideshare.net/HuabingZhao/msb-to-support-carrier-grade-onap-microservice-architecture-with-service-mesh) ONS, Los Angeles, 2018
-* [Microservice Powered Orchestration](https://www.slideshare.net/HuabingZhao/microservice-powered-orchestration-126100339) ONS, Santa Clara, 2017
-* [MSB Technical Deep Dive and ONAP Use Cases] (https://www.slideshare.net/HuabingZhao/msb-depp-dive/) ONAP Developer Event, New Jersey, 2017
-* [Microservice Bus Tutorial] (https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial) ONAP Developer Event, Paris, 2017

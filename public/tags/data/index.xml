@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data on Data Blog</title>
+    <title>Data on OpenData Yvré</title>
     <link>/tags/data/</link>
-    <description>Recent content in Data on Data Blog</description>
+    <description>Recent content in Data on OpenData Yvré</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
